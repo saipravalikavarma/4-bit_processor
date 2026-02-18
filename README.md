@@ -42,7 +42,7 @@ The waveform confirms correct instruction execution, PC increment, and ALU opera
 
 ## 📷 Simulation Output
 
-![Waveform](waveform.png)
+https://github.com/saipravalikavarma/4-bit_processor/blob/main/Screenshot%202026-02-18%20133605.png
 
 ## 🚀 How to Run
 1. Open Xilinx Vivado
